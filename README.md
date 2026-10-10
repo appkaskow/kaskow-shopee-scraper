@@ -5,7 +5,7 @@
 <h1 align="center">KASKOW Shopee Scraper</h1>
 
 <p align="center">
-  Riset produk Shopee untuk penjual & afiliasi — estimasi omzet, stok real, produk iklan, dan komisi dalam satu dasbor.<br>
+  Riset produk Shopee untuk penjual & afiliasi — estimasi omzet, stok per variasi, produk iklan, dan komisi dalam satu dasbor.<br>
   <a href="https://kaskow.com/p/shopee-scraper/"><b>kaskow.com/p/shopee-scraper</b></a>
 </p>
 
@@ -20,7 +20,7 @@ Aplikasinya dipakai lewat dasbor di [kaskow.com](https://kaskow.com) (butuh akun
 KASKOW Shopee Scraper membantu penjual dan afiliasi melakukan riset produk dengan angka yang jelas — bukan tebakan:
 
 - **Estimasi omzet** produk dan toko (total, 30 hari, per hari)
-- **Stok real per variasi** dan tanggal produk diunggah
+- **Stok per variasi saat terakhir dicek** (waktu pembaruannya ditampilkan) dan tanggal produk diunggah
 - **Deteksi produk iklan** vs organik
 - **Komisi affiliate** per produk
 - **Pantau kompetitor** secara rutin dan **ekspor ke CSV**
